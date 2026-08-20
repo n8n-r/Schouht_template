@@ -1,0 +1,11 @@
+known bugs:
+- fix zero in deltas in recent_list
+- game and inning compare break with no pitches
+- improve parameters
+
+new projects:
+- teddy/dottie's delta/delta pattern
+- delta buckets
+- pitch predictor
+- peach predictor
+- obc based stuff
